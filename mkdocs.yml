@@ -1,7 +1,7 @@
 site_name: TEMPLATE
 site_url: https://github.com/NITKK-ROS-Team
-repo_url: https://github.com/NITKK-ROS-Team/mkdocs-material-template
-edit_uri: https://github.com/NITKK-ROS-Team/mkdocs-material-template/edit/main/docs/
+repo_url: https://github.com/NITKK-ROS-Team/rclcpp_tutorials
+edit_uri: https://github.com/NITKK-ROS-Team/rclcpp_tutorials/edit/main/docs/
 docs_dir: docs
 copyright: Copyright &copy; 2022 NITK.K ROS-Team
 
