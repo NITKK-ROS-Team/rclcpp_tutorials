@@ -95,13 +95,13 @@ ROSノードは、任意の数のトピックにデータを公開し、同時�
 
 送信側と受信側のタグが一致している場合にデータの通信を開始します。
 
-![](../../images/01_about_ros/04_one_topic_pubsub.gif)
+![](https://raw.githubusercontent.com/NITKK-ROS-Team/rclcpp_tutorials/main/docs/images/01_about_ros/04_one_topic_pubsub.gif)
 
 <br>
 
 複数の送信先がある場合も問題なく転送できます。
 
-![](../../images/01_about_ros/05_two_topic_sub.gif)
+![](https://raw.githubusercontent.com/NITKK-ROS-Team/rclcpp_tutorials/main/docs/images/01_about_ros/05_two_topic_sub.gif)
 
 <br>
 

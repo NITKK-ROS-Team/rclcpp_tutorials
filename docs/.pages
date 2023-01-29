@@ -1,4 +1,3 @@
 nav:
     - Title_main: index.md
-    - Title1: 01_title1
-    - Title2: 02_title2
+    - ROSについて: 01_about_ros
