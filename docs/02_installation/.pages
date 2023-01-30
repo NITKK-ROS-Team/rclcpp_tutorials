@@ -1,2 +1,6 @@
 nav:
-    - About : 01_hardware
+    - Hardware : 01_hardware
+    - Ubuntu : 02_ubuntu_installation
+    - Docker(Ubuntu) : 03_ubuntu_docker_installation
+    - Docker(MacOS) : 04_macos_docker_installation
+    - Docker(Windows) : 05_windows_docker_installation

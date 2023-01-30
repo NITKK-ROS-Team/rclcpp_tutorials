@@ -1,3 +1,4 @@
 nav:
     - Title_main: index.md
     - ROSについて: 01_about_ros
+    - インストール: 02_installation
